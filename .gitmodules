@@ -1,6 +1,3 @@
 [submodule "modules/nest-starter"]
 	path = modules/nest-starter
 	url = https://github.com/ra00d/nest-starter.git
-[submodule "modules/pdf-nodejs"]
-	path = modules/pdf-nodejs
-	url = https://github.com/ra00d/pdf-nodejs.git
